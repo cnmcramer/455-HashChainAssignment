@@ -85,6 +85,4 @@ INTEGRITY CHECK RESULT:
 
 ## Disclaimer
 
-*This code was created with the assistance of Claude, an AI assistant made by Anthropic. All code has been reviewed and tested for correctness. The author takes full responsibility for the final implementation and any modifications made thereafter.*
-
-Read more on Merkle Trees here: https://www.geeksforgeeks.org/dsa/introduction-to-merkle-tree/
+*This code was created with the assistance of Claude, an AI assistant made by Anthropic. All code has been reviewed and tested for correctness."
