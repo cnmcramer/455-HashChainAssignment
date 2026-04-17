@@ -1,6 +1,6 @@
 # Merkle Hash Tree - CIS455 01 Project
 
-By: [Your Name]
+By: Caleb Cramer
 
 The file **merkle.py** contains Python code that will utilize the Merkle Hash Tree model to compute the Top Hash. Hashing is done using SHA-1.
 
